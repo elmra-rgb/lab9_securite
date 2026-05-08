@@ -1,0 +1,4 @@
+Package: com.example.vulnerableapp
+  DataSyncService
+    Exported: Oui
+    Protection: Aucune

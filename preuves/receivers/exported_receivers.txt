@@ -1,0 +1,4 @@
+Package: com.example.vulnerableapp
+  BootReceiver
+    Exported: Oui
+    Protection: Aucune

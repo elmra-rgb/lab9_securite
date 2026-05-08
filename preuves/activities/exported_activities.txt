@@ -1,0 +1,7 @@
+Package: com.example.vulnerableapp
+  LoginActivity
+    Exported: Oui
+    Protection: Aucune
+  UserProfileActivity
+    Exported: Oui
+    Protection: Permission

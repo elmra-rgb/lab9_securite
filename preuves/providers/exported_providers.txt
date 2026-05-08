@@ -1,0 +1,4 @@
+Package: com.example.vulnerableapp
+  UserDataProvider
+    Exported: Oui
+    Protection: Lecture/Écriture (faible ou mal configurée)
